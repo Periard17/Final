@@ -1,0 +1,2 @@
+Tipo: Roupa, Quantidade: 12, Data: 01/05/1970
+Tipo: Dinheiro, Quantidade: 5000, Data: 16/02/2020
